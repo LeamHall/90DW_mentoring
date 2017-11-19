@@ -1,0 +1,31 @@
+Deep Learning
+============
+
+It is easy to start a project and glide along until something better
+comes along. Here are some tools to help you become skilled in whatever
+you seek to learn.
+
+
+* Do. In most languages there are nuances; a semi-colon in C, an 
+inflection in Spanish. Don't cut and paste. Take the time to do the 
+work yourself. Not only will attention to detail speed your growth
+but it will deepen your understanding. If you just see a word or line
+of code it does not tend to stick in your memory as well. If you write
+it, type it, say it, and test it, you learn it.
+
+* Be curious. Take your time and play. While there are lots of work
+things that need to be done on a daily basis, if you associate play
+with your learning your brain moves forward faster. The "feels good"
+portion of life motivates you to return again and again. Avoid 
+drudgery in your learning. It might not be easy, but make it fun.
+
+* Dream. Keep sight of where this will take you. Have a goal that you 
+really want to achieve. When times get tough and discouragment tries
+to steal your joy, remember where you are going. Remember why you want
+to get there. Taste success like cool water on a hot day. 
+
+* Work. Lots of people have dreams but few do the work to achieve them.
+Spend 15-45 minutes a day doing something towards your goal. Do your 
+work in your best part of the day; the time your mind and energy is 
+strongest. Create the space to work, say "no" to things that distract. 
+

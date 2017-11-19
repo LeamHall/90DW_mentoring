@@ -1,0 +1,39 @@
+Leam's Coding Style
+===================
+
+For humor value, if not help in learnng, here's how I do the lessons.
+
+
+
+My terminal has tabs, so I go to the local directory for the code, 
+  and open four tabs. I change the titles to "code", "make", "run", and "git".
+  Naturally, that's what I do in that terminal, and pretty much in that order.
+
+Write code, and make it. If there are errors, only deal with the very first one.
+  For example, this is the output from a recent compile:
+
+  [leam@shaphan leam]$ make ex15
+  cc -Wall -Werror -g -o bin/ex15 ex15.c
+  cc1: warnings being treated as errors
+  ex15.c: In function 'main':
+  ex15.c:6: error: assignment from incompatible pointer type
+  ex15.c:18: error: initialization from incompatible pointer type
+  ex15.c:21: error: format '%d' expects type 'int', but argument 3 has type 'int *'
+  ex15.c:27: error: format '%d' expects type 'int', but argument 3 has type 'int *'
+  ex15.c:32: error: assignment from incompatible pointer type
+  ex15.c:32: error: invalid operands to binary - (have 'int **' and 'int *')
+  ex15.c:33: error: format '%d' expects type 'int', but argument 3 has type 'int *'
+  make: *** [ex15] Error 1
+
+In this case I was working on the extra credit for Exercise 15, and blew it up.
+  I focused on the error line started "ex15.c:6:" since that was the first error.
+  Often, later errors will be caused by earlier ones. By dealing with the first you
+  may wind up not duplicating effort. 
+
+Having reference material at hand is always useful. In my case, besides IRC and the web, 
+  I have several books on C. When the above error came up I was trying to create a
+  pointer to an array of ints, but not referencing it correctly. I pulled "Understanding
+  and Using C Pointers" (Reese: O'Reilly) off the shelf and started reading chapter 4,
+  "Arrays and Pointers". In the second paragraph it reminded me we can't use an array
+  name by itself as the target of an assignment. We can, however, use the first value
+  in the array, my_array[0]. Went back and fixed the code, and moved on. 

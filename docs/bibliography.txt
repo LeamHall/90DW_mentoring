@@ -1,0 +1,53 @@
+BIBLIOGRAPHY
+============
+
+
+Particular to this discussion
+============================
+
+ALE discussion/instigation:
+
+  http://mail.ale.org/pipermail/ale/2015-November/154363.html
+
+ALE GitHub site for this project:
+
+  https://github.com/LeamHall/ale_lcthw
+
+The book on Amazon:
+
+  http://www.amazon.com/Learn-Hard-Way-Practical-Computational/dp/0321884922
+
+The author's slides and code: 
+
+  https://github.com/zedshaw/learn-c-the-hard-way-lectures
+
+
+Additional C learning material
+=============================
+
+Another on-line pointer reference
+  http://pw1.netcom.com/~tjensen/ptr/pointers.htm
+
+C and other Programming tutorials
+  http://www.codingunit.com/
+
+Some basic good C/C++ stuff
+  http://www.cprogramming.com/
+ 
+Stack vs Heap
+  http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
+
+Interesting C library reference guide
+  https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/
+
+
+Tools of note
+=============
+
+DDD Graphical debugger
+  https://www.gnu.org/software/ddd/ 
+
+Splint
+  http://www.splint.org/
+
+

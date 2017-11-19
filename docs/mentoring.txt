@@ -1,0 +1,52 @@
+Mentoring an on-line group -- Lessons in progress
+=================================================
+
+There are a lot of lessons to learn when trying to help others make
+progress towards their goals. Here are the ones that I have focused 
+on with the "Learn C the Hard Way" effort.
+
+1. Accept that it isn't for everyone. 
+Really, just because I like something doesn't mean anyone else cares. 
+Let folks come and go as they please. However, that leads to number 2.
+
+2. Set a barrier for entry. 
+In this case, it's "Do you want this enough to spend $$ on a book?" I
+tried to pick a book that provided both paper and video learning, and 
+was reasonably priced. It also, mostly, focused on the basics, which 
+is important. If someone doesn't buy the book then they are saying 
+the effort isn't worth their time and money. That's fine. Just don't 
+blow your time trying to make them want it.
+
+3. Stay focused. 
+In any computer subject there will be dozens of side-trails and rabbit
+holes to wander down. Don't. Stick to the material at hand for the 
+agreed up time frame. Don't confuse people with a bunch of things that 
+excite you. It will just confuse them and kill their participation. 
+
+4. Don't ego bomb someone else's group.
+Corollary to #3, don't throw in a bunch of stuff when someone else is 
+trying to keep a group focused. Form your own group. Don't kill someone
+else's efforts. 
+
+5. Pick a time-frame and stick to it. 
+In this case it's 90 days. An arbitrary length of time that seems long
+enough to make progress and short enough to persevere though if times
+get tough. If someone comes in late, great! They can participate as best
+they can and be ready for the next go round.
+
+6. Don't save the world.
+It ain't worth it and doesn't want to be saved. Have fun yourself. Do what
+is fun for you. Otherwise you'll ruin everyone else's fun and be a general
+boor. 
+
+7. Decide on your message and go with it.
+There are lots of mediocre messages out there. Pick one that you want to 
+promote and go with it. Put it up on Meetup, e-mail, wherever. For example,
+ my message is simply "It's all about you". Drive the same message home as
+often as possible.
+
+8. Value people by watching the time.
+Show up a little early. Wrap things up on time. If folks want to hang out
+and chat, let them. However, provide a solid emotional ending to the event
+so those who want to leave don't feel guilty about doing so.
+
