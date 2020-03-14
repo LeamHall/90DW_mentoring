@@ -1,0 +1,65 @@
+90DW Project Skills Syllabus
+============================
+
+Setup: 
+
+Ensure working Ruby installs, Gems in place, and can connect
+to GitHub.
+
+
+Install:        Ruby
+Process:        https://www.ruby-lang.org/en/downloads/
+Output from:    ruby --version
+  Success:        Anything that doesn't blow up.
+
+                    ruby 2.8.0dev (2020-03-10T08:33:38Z master aa3a7d6d74) [x86_64-linux]
+
+
+Install:        RSpec
+Process:        gem install rspec
+Output from:    gem list rspec
+  Success:        At least rspec-core listed
+
+                    rspec (3.9.0)
+                    rspec-core (3.9.1)
+                    rspec-expectations (3.9.0)
+                    rspec-mocks (3.9.1)
+                    rspec-support (3.9.2)
+
+
+Install:        Git client
+Process:        OS dependent
+Login:          Create a free account on GitHub.com, share your login name.
+Result of:      git clone git@github.com:makhidkarun/ftl_tools.git
+  Success:        Something that looks like:
+
+                    Cloning into 'ftl_tools'...
+                    remote: Enumerating objects: 1174, done.
+                    remote: Total 1174 (delta 0), reused 0 (delta 0), pack-reused 1174
+                    Receiving objects: 100% (1174/1174), 664.82 KiB | 0 bytes/s, done.
+                    Resolving deltas: 100% (654/654), done.
+
+
+Challenge:      Fork the codebase, make a change, share your code, test others.
+Process:        Fork the codebase:
+                  https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+
+                Edit README.md, add your GitHub login name to the first line.
+                  # ftl_tools by <YOUR NAME>
+
+                Commit and push your code.
+                  git add .
+                  git commit -m "First change"
+                  git push
+                    If this is your first push ever, follow the suggestions
+                    given.
+
+                Check your repo on GitHub, to see your change.
+
+                Respond to everyone, that your change is done.
+                
+                When other's post that their change is done, clone
+                their repo into a different directory, and test.
+
+                Respond that you have tested, and with the results.
+
