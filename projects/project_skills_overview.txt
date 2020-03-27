@@ -5,10 +5,11 @@
 Vision
 ------
 
-Participants have coding skills, and would like to actively 
-participate in an Open Source project. They will be mentored
-for 90 days, and end will end with a personalized project, and
-new skills. 
+Participants enter the project with some coding skills, and 
+a desire to actively participate in an Open Source project. 
+They will be mentored for 90 days, and will end with a 
+personalized project, and the base skills required to be an
+open source contributor. 
 
 
 Goal
@@ -16,7 +17,7 @@ Goal
 
 Participant will gain useful project skills. 
 
-  - Communication
+  - Team Communication
   - Version Control
   - Code Reading
   - Test Driven Development
@@ -34,13 +35,13 @@ mentored through each skill area.
 Process
 -------
 
-Participant will fork the project repository, and each week 
+Participants will fork the project repository. Each week they
 will get an e-mail with an area to focus on, and a challenge
 to accomplish. The e-mails are conversations, and everyone is
 encouraged to help others while facing their own challenges.
 
-The project lead will publish times and locations they will be
-available via IRC (Freenode).
+The project lead will publish times he will be available via 
+IRC (Freenode#ruby).
 
 
 Money
